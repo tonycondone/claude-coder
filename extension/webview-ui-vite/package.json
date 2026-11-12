@@ -88,7 +88,7 @@
 		"use-resize-observer": "^9.1.0",
 		"vaul": "^0.9.9",
 		"web-vitals": "^4.2.4",
-		"zod": "^3.23.8"
+		"zod": "^4.6.6"
 	},
 	"devDependencies": {
 		"@types/jsdom": "^21.1.7",
